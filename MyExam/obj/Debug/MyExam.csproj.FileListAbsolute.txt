@@ -1,0 +1,13 @@
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\bin\Debug\MyExam.exe.config
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\bin\Debug\MyExam.exe
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\bin\Debug\MyExam.pdb
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.csproj.AssemblyReference.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.csproj.SuggestedBindingRedirects.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.Form1.resources
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.Properties.Resources.resources
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.csproj.GenerateResource.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.csproj.CoreCompileInputs.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.exe
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.pdb
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.DiagramForm.resources
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\MyExam\MyExam\obj\Debug\MyExam.TwoMiniteForm.resources
